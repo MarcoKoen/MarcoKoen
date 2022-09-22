@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Marco
 #### Student, Developer and Software Enthusiast 
-I'm Marco from New Zealand, I am currently studying a Bachelor of Information Technology at Otago Polytechic finishing at the end of 2023. I really enjoy learning new languages and frameworks like React, Svelte and JavaScript to name a few.
+I am currently studying a Bachelor of Information Technology at Otago Polytechic finishing at the end of 2023. I really enjoy learning new languages and frameworks like React, Svelte and JavaScript to name a few.
 
 Skills: REACT / JS / HTML / CSS / C++ / UX / NODE.JS / UNITY / MYSQL / GITHUB / AGILE & SCRUM
 
