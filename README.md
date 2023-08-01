@@ -7,13 +7,12 @@ I am currently studying a Bachelor of Information Technology at Otago Polytechic
 
 ## Projects:
 - Mid Canterbury TimeBank website - https://staging.time-bank.pages.dev
+- Next.js project using the hacker-news api - https://s1-23-id608001-project-1-next-js-course-app-marco-koen.vercel.app
 - Dog walking weather app - https://staging--walkeez.netlify.app/
 
-- 🔭 I’m currently working on a mobile game built in Unity and  a node.js rest API. 
-- 🌱 I’m currently learning UX Techniques, C++, React and Node.js 
+- 🔭 I’m currently working on an RPG Api inspired by the SpaceTradersAPI(https://spacetraders.io), which will be used by future Polytech students to fetch data and create games with.
+- 🌱 I’m currently building an ASP.NET app that will be used by lecturers and students. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marcokoen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marco-koen-68b96a1a1/)  
-
-![Profile views](https://gpvc.arturio.dev/marcokoen)  
 
