@@ -6,6 +6,7 @@ I am currently studying a Bachelor of Information Technology at Otago Polytechic
 * REACT / JS / HTML / CSS / C# / UX / NODE.JS / UNITY / MYSQL / .NET / AGILE & SCRUM
 
 ## Projects:
+- Mid Canterbury TimeBank website - https://staging.time-bank.pages.dev
 - Dog walking weather app - https://staging--walkeez.netlify.app/
 
 - 🔭 I’m currently working on a mobile game built in Unity and  a node.js rest API. 
