@@ -6,7 +6,7 @@ I am currently studying a Bachelor of Information Technology at Otago Polytechic
 * JavaScript / C# / Python / Node.js / React / Next.js / Svelte / .NET / SQLite / PostgreSQL / Unity / Github / Agile / Scrum / Kanban
 
 ## Projects:
-- Mid Canterbury TimeBank website - https://staging.time-bank.pages.dev
+- Mid Canterbury TimeBank website - https://www.mctimebank.nz
 - Next.js project using the hacker-news api - https://s1-23-id608001-project-1-next-js-course-app-marco-koen.vercel.app
 - Dog walking weather app - https://staging--walkeez.netlify.app/
 
